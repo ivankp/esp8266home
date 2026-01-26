@@ -1,0 +1,8 @@
+[submodule "ESP8266_RTOS_SDK"]
+	path = ESP8266_RTOS_SDK
+	url = git@github.com:espressif/ESP8266_RTOS_SDK.git
+	branch = release/v3.4
+[submodule "projects/light-and-fan"]
+	path = projects/light-and-fan
+	url = git@github.com:ivankp/esp8266-light-fan.git
+	branch = new
